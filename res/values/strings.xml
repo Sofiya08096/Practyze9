@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Practyzeee9</string>
+    <string name="text_hello">Лабораторная работа №9</string>
+    <string name="TextView2">Settings</string>
+    <string name="TextView3">Copyright (C) 2021</string>
+    <string name="zogolovok">Листопад И.А.Бунин</string>
+    <string name="soderzanie">Лес, точно терем расписной,\n
+Лиловый, золотой, багряный,\n
+Веселой, пестрою стеной\n
+Стоит над светлою поляной</string>
+
+
+</resources>
